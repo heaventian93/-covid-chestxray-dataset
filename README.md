@@ -1,5 +1,5 @@
 ## Coronavirus disease 2019 (COVID-19) X-Ray Images
-The repository contains three categories: Normal, Pneumonia and Covid.
+The repository contains three categories images: Normal, Pneumonia and Covid.
 
 
 ## Resources
